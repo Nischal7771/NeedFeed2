@@ -454,7 +454,7 @@ footer{
 {
     
     
-    .header #navbar{
+    #navbar{
         position: absolute;
         top: 110%;
         right: -110%;
@@ -463,7 +463,7 @@ footer{
         border-radius: .5rem;
         background: #fff;
         }
-    .header #navbar ul{
+     #navbar ul{
         font-size: 2rem;
         margin: 2rem 2.5rem;
         display: block;
